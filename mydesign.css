@@ -1,0 +1,13 @@
+body{
+    font-style:serif;
+    background-image: url('images/Cool.jpg');
+    background-size:cover;
+}
+.context-box{
+    width: 39%;
+    height: 30%; 
+    color: white;
+    background-image: url('images/Mountain.jpg');
+	text-align: center;
+    transform: translateX(80%) translateY(80%);
+} 
